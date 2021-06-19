@@ -1,1 +1,1 @@
-[Github] (https://github.com/brakemone)
+[Github](https://github.com/brakemone)
